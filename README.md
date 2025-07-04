@@ -17,6 +17,6 @@ A simple project to detect abnormal user behavior in log data using an Isolation
 ## Author
 Amal Thomas
 
-[LinkedIn](https://www.linkedin.com/in/yourprofile)  
-[GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/hi-amal-thomas)  
+[GitHub](https://github.com/hiamalthomas)
 
